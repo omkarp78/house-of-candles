@@ -19,3 +19,10 @@ Reviewed from the supplied mobile and desktop screenshots on 23 Sep 2026.
 - [ ] Replace text HC mark with final logo asset and favicon.
 - [ ] Add remaining real product photos for Daisy Urli and Floral Gift Set.
 - [ ] Final cross-device QA after deployment.
+
+## Checkout & product polish
+- [x] Fix header WhatsApp CTA with pre-filled order message and reliable external navigation.
+- [x] Replace emoji on product detail pages with the product photograph when available.
+- [x] Rebuild cart into responsive bag + checkout panels with product thumbnails and quantity controls.
+- [x] Improve WhatsApp checkout copy and open it safely in a new tab.
+- [x] Add responsive product-detail layout and visual product specifications.
