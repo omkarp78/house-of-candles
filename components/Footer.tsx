@@ -1,0 +1,1 @@
+import Link from"next/link";export default function Footer(){return <footer><div><h2>House of Candles</h2><p>Lights Up Your Moments</p><p>A little candle, a brighter day.</p></div><div><Link href="/shop">Shop</Link> · <Link href="/about">About</Link> · <Link href="/contact">Contact</Link><p>WhatsApp: +91 8830424127</p><p>pratikshavaidya55555@gmail.com</p></div></footer>}
